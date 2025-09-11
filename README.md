@@ -6,7 +6,7 @@ Création du projet moving stars en HTML5, CSS3 et JavaScript.
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/moving_stars/
 
 ## Projet développé avec
 
