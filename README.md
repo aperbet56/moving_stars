@@ -1,5 +1,7 @@
 ## MOVING STARS 🌟
 
+![Design preview for the moving satrs projet](./img/banner.PNG)
+
 ## Le challenge
 
 Création du projet moving stars en HTML5, CSS3 et JavaScript.
